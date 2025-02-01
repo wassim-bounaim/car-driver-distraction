@@ -1,11 +1,5 @@
 ## Car Driver Distraction Detection 🚗💻
 
-Welcome to the **Car Driver Distraction Detection** project. This project focuses on detecting distracted driving behaviors using machine learning and image processing techniques. The goal is to reduce road accidents caused by distracted driving by identifying and classifying various driver behaviors in real-time.
-
----
-
-## 📋 Overview
-
 Distracted driving is one of the leading causes of road accidents worldwide. This project aims to address this issue by developing a machine learning model that can accurately detect and classify distracted driving behaviors using image data. The dataset includes multiple categories of distracted behaviors, enabling the model to precisely identify specific actions that may lead to accidents.
 
 ---
