@@ -87,13 +87,6 @@ The notebook includes detailed metrics and visualizations showcasing the model's
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details. 
-
----
-
-📧 Contact
-
-For any questions or inquiries, feel free to reach out to me at [wass.bounaim@gmail.com].
-
+This project is licensed under the MIT License.
